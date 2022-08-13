@@ -1,6 +1,6 @@
 # Emerging Media Lab Agora.io template
 
-##How to get Agora.io working with Unity:
+## How to get Agora.io working with Unity:
 
 1. Create a new Unity project.
 2. Using Unity's Package Manager, download and install the Agora.io video package.
